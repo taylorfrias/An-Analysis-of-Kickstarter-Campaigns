@@ -16,3 +16,5 @@ To improvise on this study, we can look into marketing data. Looking to see how 
 In conclusion the majority of Kickstarters who had a low goal, below $5000 and who started their kickstarted in June had a high probability of succeeding. There are always going to be outliers and limitations to all data which could prevent someone from accurately forecasting future results.
 
 ### Challenge
+
+![Analysis of kickstarted data](https://github.com/taylorfrias/An-Analysis-of-Kickstarter-Campaigns/blob/master/Module%201%20Challenge.xlsx)
