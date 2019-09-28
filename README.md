@@ -3,8 +3,7 @@
 
 The data fully supports that Louise chose a good goal and time to start funding for her play, Fever. 
 
-![Outcomes_based_on_goals.png](An-Analysis-of-kickstarter-Campaigns/Outcomes_based_on_goals.png)
-
+![Outcomes based on goals](https://github.com/taylorfrias/An-Analysis-of-Kickstarter-Campaigns/blob/master/Outcomes%20based%20on%20goals.png)
 
 Looking at the data set, play’s that have a lower goal have a higher chance of success. Louise’s goal of $2,885 had a 69% probability of funding when looking at other plays whose goal ranged between $1,000 to $4,999. Giving her only a 31% chance of failure.  The data set of course has its limitations. We cannot take in consideration, people’s preferences’ when it comes to certain plays. Maybe people didn’t like the theme of her play which is why she didn’t get the funding needed to reach her goal. Or maybe there wasn’t enough time to reach her goal. 
 
